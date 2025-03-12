@@ -1,16 +1,12 @@
-# mynotes
+# My Note Apps - Flutter
 
-A new Flutter project.
+## Overview
 
-## Getting Started
+This Note App is a simple and efficient note-taking application built using Flutter. It allows users to create, edit, delete, and organize their notes with localization support. The application uses sqflite for local database storage and includes additional features to enhance usability.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Package 
+- SQL Database : [Sqflite](https://pub.dev/packages/sqflite)
+- Routing : [Auto_Router](https://pub.dev/packages/auto_route)
+- StateManagement : [Provider](https://pub.dev/packages/provider)
+- Local Data : [Shared_preferences](https://pub.dev/packages/shared_preferences)
+- Localization : [intl](https://pub.dev/packages/intl)
